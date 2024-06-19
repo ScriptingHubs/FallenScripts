@@ -1,5 +1,5 @@
 local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
-local Window = OrionLib:MakeWindow({Name = "Fallen's Adopt-me'ScriptHub❗", HidePremium = false, SaveConfig = true, ConfigFolder = "OrionTest"})
+local Window = OrionLib:MakeWindow({Name = "Fallen's-Adopt-me-ScriptHub 🍂", HidePremium = false, SaveConfig = true, ConfigFolder = "OrionTest"})
 OrionLib:MakeNotification({
 	Name = "Loading Script...",
 	Content = "Script will be loaded in 25-30 seconds | Note - Seconds Shown Here are not the exact loading time❗",
@@ -10,7 +10,7 @@ OrionLib:MakeNotification({
 --[[
 
 ]]
-loadstring(game:httpGet("https://raw.githubusercontent.com/Ansh4569/Lucifer-s/main/adoptme"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AbHackerGroup/BallingScriptsAdoptMe/main/Adoptme-MainHub-%5BBallingScripts%5D"))()
 --[[
 Name = <string> - The name of the UI.
 HidePremium = <bool> - Whether or not the user details shows Premium status or not.
