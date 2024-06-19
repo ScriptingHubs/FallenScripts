@@ -286,7 +286,7 @@ end
 })
 
 Tab:AddButton({
-    Name = "NFR Changer-(Inventory??)",
+    Name = "NFR Changer-(Inventory🎒)",
     Callback = function()
               while true do
    wait()
@@ -335,4 +335,3 @@ Callback = <function> - The function of the button.
 ]]
 Tab:AddParagraph("NOTE❗","Some Features May Not Work If ur in a private server")
 Tab:AddParagraph("CREDITS❗","Coded And Made All By FallenScriptsHubYT")
-Tab:AddParagraph("Script Successfully Loaded❗","Enjoy The Script, Youtube is FallenScriptsHubYT")
